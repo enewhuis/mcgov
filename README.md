@@ -51,6 +51,7 @@ LG intends to deploy a single smart contract that will allow holders to hold eit
 
 - Develop prototype 0 base ERC1155_ERC20_Votes contract in Solidity on Rinkeby. [$6000]
 - Develop prototype 0 LG contract based on ERC1155_ERC20_Votes and deploy on Rinkeby. [$3000]
+- Develop prototype 0 LG Governance contract ad deploy on Rinkeby. [$3000]
 - Initial Testing, Enhancements, and Fixes on Rinkeby. [$3000]
 - Develop static project website. [$2500]
 - Head hunt 5-member technical review board (recruiter search fees) [$5000]
@@ -79,4 +80,4 @@ LG intends to deploy a single smart contract that will allow holders to hold eit
 
 ## TOTAL STARTUP COSTS
 
-Seeking $244,800 in funding via Juicebox.money
+Seeking $248,200 in funding via Juicebox.money

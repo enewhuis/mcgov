@@ -68,7 +68,7 @@ LG intends to deploy a single smart contract that will allow holders to hold eit
 - Develop and deploy contracts, app, and LG governance prototype 3 final. [$12,000]
 - Community Test Round 2 (lead, collect, and report) [$4000]
 - Review Board Iteration planning meeting 4 [$2500]
-- Implement final versions of MCGov contracts, app, and LG governance example. [$6000]
+- Implement final versions of MCGov contracts, app, and LG governance example. [$12,000]
 - Deploy LG and LG Governance contracts via token deployer web app on Mainnet. [$2000]
 - Deploy MCGOV Governance token with review board members as founders shares. [$2000]
 - Juicebox -> MCGOV token conversion (web app and community education). [$3000]
@@ -80,4 +80,4 @@ LG intends to deploy a single smart contract that will allow holders to hold eit
 
 ## TOTAL STARTUP COSTS
 
-Seeking $248,200 in funding via Juicebox.money
+Seeking $255,400 in funding via Juicebox.money

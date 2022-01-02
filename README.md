@@ -75,7 +75,7 @@ LG intends to deploy a single smart contract that will allow holders to hold eit
 - MCGov WithTally.com listing [$3000]
 - Initial Community Support [$6000]
 - Legal and Accounting Fees [$6000]
-- "18%" Overrun Buffer / initial web app maintenance budget [$39,600]
+- "18%" Overrun Buffer / initial web app maintenance budget [$40,000]
 
 
 ## TOTAL STARTUP COSTS

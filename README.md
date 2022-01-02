@@ -13,13 +13,13 @@ MCGov will extend Open Zeppelin governance to support an opinionated ERC1155/ERC
 
 ## BACKGROUND
 
-DAO - Distributed Autonomous Organization
-ERC20 - widespread standard for single-class tokens on Ethereum.
-ERC1155 - emerging standard for fungibility-agnostic token sets.
-Open Zeppelin - popular well-audited and robust framework for Solidity smart contract development.
-Governance - DAO system of voting whereby functions may be proposed, voted, and executed through smart contracts.
-Voting Power - the weight of an account-cast vote based on a token balance.
-WithTally.com - popular user interface to standardized governance contracts.
+* DAO - Distributed Autonomous Organization
+* ERC20 - widespread standard for single-class tokens on Ethereum.
+* ERC1155 - emerging standard for fungibility-agnostic token sets.
+* Open Zeppelin - popular well-audited and robust framework for Solidity smart contract development.
+* Governance - DAO system of voting whereby functions may be proposed, voted, and executed through smart contracts.
+* Voting Power - the weight of an account-cast vote based on a token balance.
+* WithTally.com - popular user interface to standardized governance contracts.
 
 ## OPPORTUNITY
 

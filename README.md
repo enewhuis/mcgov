@@ -49,6 +49,7 @@ LG intends to deploy a single smart contract that will allow holders to hold eit
 
 ## VERSION 1 DRAFT PROJECT TIMELINE
 
+- Miami Bitcoin Convention seed investor attractor event. [$6000]
 - Develop prototype 0 base ERC1155_ERC20_Votes contract in Solidity on Rinkeby. [$6000]
 - Develop prototype 0 LG contract based on ERC1155_ERC20_Votes and deploy on Rinkeby. [$3000]
 - Develop prototype 0 LG Governance contract and deploy on Rinkeby. [$3000]
@@ -75,9 +76,9 @@ LG intends to deploy a single smart contract that will allow holders to hold eit
 - MCGov WithTally.com listing [$3000]
 - Initial Community Support [$6000]
 - Legal and Accounting Fees [$6000]
-- "20%" Overrun Buffer / initial web app maintenance budget [$41,200]
+- "20%" Overrun Buffer / initial web app maintenance budget [$42,400]
 
 
 ## TOTAL STARTUP COSTS
 
-Seeking $255,400 in funding via Juicebox.money
+Seeking $262,600 in funding via Juicebox.money

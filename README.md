@@ -1,10 +1,7 @@
 # mcgov
 MCGov - EVM-based (Ethereum) Multi-class Governance Tokens
 
-MCGov - Ethereum Multi-class on-chain governance tokens.
-
-
-ABSTRACT
+## ABSTRACT
 
 Currently there is no standard for DAO voting power weighted by token class e.g. having distinct founder, preferred, dev, and common shares, etc. with the same equity implications but distinct voting power.
 
@@ -14,8 +11,7 @@ ERC1155 improves the situation for managing a set of related tokens from a singl
 
 MCGov will extend Open Zeppelin governance to support an opinionated ERC1155/ERC20 hybrid enabling classes of distinct voting power, provide an ERC20 view of account equity, and host a web app to deploy custom multi-class DAO tokens for use with governance UI/UX e.g. withtally.com.
 
-
-BACKGROUND
+## BACKGROUND
 
 DAO - Distributed Autonomous Organization
 ERC20 - widespread standard for single-class tokens on Ethereum.
@@ -25,10 +21,9 @@ Governance - DAO system of voting whereby functions may be proposed, voted, and 
 Voting Power - the weight of an account-cast vote based on a token balance.
 WithTally.com - popular user interface to standardized governance contracts.
 
+## OPPORTUNITY
 
-OPPORTUNITY
-
-Many DAO founders are looking for a multi-class solution they can customize for their particular project.
+Many DAO founders are looking for a multi-class solution they can customize for their particular project.  The current governance systems based on voting with a flat voting power distribution are not the most general solutions nor the best solution for many use cases attempting to achieve a balance of founder, expert, and common vote governance.
 
 Example:
 
@@ -41,8 +36,7 @@ Loci Global DAO (LG) tokens represent voting power held by Loci associates for o
 
 LG intends to deploy a single smart contract that will allow holders to hold either token class while at the same time providing ERC20 semantics for standard online wallets.  Holders from both classes may issue proposals for governance via UI such as withtally.com and their respective voting power will be determined based on the particular classes held in their accounts.
 
-
-SOLUTION OVERVIEW
+## SOLUTION OVERVIEW
 
 1. Juicebox DAO Token Raise
 2. Website with Static Project Details
@@ -53,8 +47,7 @@ SOLUTION OVERVIEW
 7. MCGov-based MCGov DAO Token (replaces Juicebox DAO Token)
 8. MCGov DAO governance of future maintenance and development 
 
-
-VERSION 1 DRAFT PROJECT PLAN
+## VERSION 1 DRAFT PROJECT PLAN
 
 - Develop prototype 0 base ERC1155_ERC20_Votes contract in Solidity on Rinkeby. [$6000]
 - Develop prototype 0 LG contract based on ERC1155_ERC20_Votes and deploy on Rinkeby. [$3000]
@@ -84,6 +77,6 @@ VERSION 1 DRAFT PROJECT PLAN
 - "18%" Overrun Buffer / initial web app maintenance budget [$39,600]
 
 
-TOTAL PROJECT COST
+## TOTAL STARTUP COSTS
 
 Seeking $244,800 in funding via Juicebox.money

@@ -47,7 +47,7 @@ LG intends to deploy a single smart contract that will allow holders to hold eit
 7. MCGov-based MCGov DAO Token (replaces Juicebox DAO Token)
 8. MCGov DAO governance of future maintenance and development 
 
-## VERSION 1 DRAFT PROJECT PLAN
+## VERSION 1 DRAFT PROJECT TIMELINE
 
 - Develop prototype 0 base ERC1155_ERC20_Votes contract in Solidity on Rinkeby. [$6000]
 - Develop prototype 0 LG contract based on ERC1155_ERC20_Votes and deploy on Rinkeby. [$3000]

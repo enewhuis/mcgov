@@ -1,5 +1,5 @@
 # mcgov
-MCGov - EVM-based (Ethereum) Multi-class Governance Tokens
+McGov - EVM-based (Ethereum) Multi-class Governance Tokens
 
 ## ABSTRACT
 
@@ -9,7 +9,7 @@ Current ERC20-based governance solutions assume a single voting class where voti
 
 ERC1155 improves the situation for managing a set of related tokens from a single contract, however, it does not provide an aggregate view of the non-weighted equity share.
 
-MCGov will extend Open Zeppelin governance to support an opinionated ERC1155/ERC20 hybrid enabling classes of distinct voting power, provide an ERC20 view of account equity, and host a web app to deploy custom multi-class DAO tokens for use with governance UI/UX e.g. withtally.com.
+McGov will extend Open Zeppelin governance to support an opinionated ERC1155/ERC20 hybrid enabling classes of distinct voting power, provide an ERC20 view of account equity, and host a web app to deploy custom multi-class DAO tokens for use with governance UI/UX e.g. withtally.com.
 
 ## BACKGROUND
 
@@ -40,12 +40,12 @@ LG intends to deploy a single smart contract that will allow holders to hold eit
 
 1. Juicebox DAO Token Raise
 2. Website with Static Project Details
-3. MCGov Multi-class Base Contract
-4. MCGov Multi-class Token Deployer Contract
+3. McGov Multi-class Base Contract
+4. McGov Multi-class Token Deployer Contract
 5. Website extended with Token Deployer App (app)
 6. LG Contract Example Use Case
-7. MCGov-based MCGov DAO Token (replaces Juicebox DAO Token)
-8. MCGov DAO governance of future maintenance and development 
+7. McGov-based MCGov DAO Token (replaces Juicebox DAO Token)
+8. McGov DAO governance of future maintenance and development 
 
 ## VERSION 1 DRAFT PROJECT TIMELINE
 
@@ -69,15 +69,14 @@ LG intends to deploy a single smart contract that will allow holders to hold eit
 - Develop and deploy contracts, app, and LG governance prototype 3 final. [$12,000]
 - Community Test Round 2 (lead, collect, and report) [$4000]
 - Review Board Iteration planning meeting 4 [$2500]
-- Implement final versions of MCGov contracts, app, and LG governance example. [$12,000]
+- Implement final versions of McGov contracts, app, and LG governance example. [$12,000]
 - Deploy LG and LG Governance contracts via token deployer web app on Mainnet. [$2000]
-- Deploy MCGOV Governance token with review board members as founders shares. [$2000]
+- Deploy McGov Governance token with review board members as founders shares. [$2000]
 - Juicebox -> MCGOV token conversion (web app and community education). [$3000]
-- MCGov WithTally.com listing [$3000]
+- McGov WithTally.com listing [$3000]
 - Initial Community Support [$6000]
 - Legal and Accounting Fees [$6000]
 - "20%" Overrun Buffer / initial web app maintenance budget [$42,400]
-
 
 ## TOTAL STARTUP COSTS
 
@@ -85,4 +84,4 @@ Seeking $262,600 in funding via Juicebox.money
 
 ## Why HODL?
 
-MCGOV is the start of an on-chain governance project that will be governed by, you guessed it, on-chain governance.  This should thrill the Y-combinator heart in many a fan.  Direct intrinsic value that has the possibility to help a many future DAO projects wherever Solidity is found and then wherever the community decides to take it next.
+McGov is the start of an on-chain governance project that will be governed by, you guessed it, on-chain governance.  This should thrill the Y-combinator heart in many a fan.  Direct intrinsic value that has the possibility to help a many future DAO projects wherever Solidity is found and then wherever the community decides to take it next.

@@ -82,3 +82,7 @@ LG intends to deploy a single smart contract that will allow holders to hold eit
 ## TOTAL STARTUP COSTS
 
 Seeking $262,600 in funding via Juicebox.money
+
+## Why HODL?
+
+MCGOV is the start of an on-chain governance project that will be governed by, you guessed it, on-chain governance.  This should thrill the Y-combinator heart in many a fan.  Direct intrinsic value that has the possibility to help a many future DAO projects wherever Solidity is found and then wherever the community decides to take it next.

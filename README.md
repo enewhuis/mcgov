@@ -1,6 +1,8 @@
 # mcgov
 McGov - EVM-based (Ethereum) Multi-class Governance Tokens
 
+https://imgflip.com/i/63uwt0
+
 ## ABSTRACT
 
 Currently there is no standard for DAO voting power weighted by token class e.g. having distinct founder, preferred, dev, and common shares, etc. with the same equity implications but distinct voting power.

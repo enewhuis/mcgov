@@ -51,7 +51,7 @@ LG intends to deploy a single smart contract that will allow holders to hold eit
 
 ## VERSION 1 DRAFT PROJECT TIMELINE
 
-- Miami Bitcoin Convention seed investor attractor event. [$6000]
+- Seed investor attractor event. [$6000]
 - Develop prototype 0 base ERC1155_ERC20_Votes contract in Solidity on Rinkeby. [$6000]
 - Develop prototype 0 LG contract based on ERC1155_ERC20_Votes and deploy on Rinkeby. [$3000]
 - Develop prototype 0 LG Governance contract and deploy on Rinkeby. [$3000]
